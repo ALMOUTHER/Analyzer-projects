@@ -1,2 +1,2 @@
 # Analyzer-projects
-Here are some projects using (Tableau, SQL, Excel, PowerPoint  
+Here are some projects using (Tableau, SQL, Excel, PowerPoint  ...
